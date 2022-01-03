@@ -1,4 +1,4 @@
-# D2couyverte git - TIW #
+# Découverte git - TIW #
 
 * Premier repository
 * Ceci est une liste 
